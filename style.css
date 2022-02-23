@@ -1,0 +1,65 @@
+.container{
+    width:1200px;
+    margin:auto;
+}
+
+div{
+    display: block;
+
+}
+
+h2{
+    display: block;
+    color: blue;
+}
+
+.row{
+    display: flex;
+}
+
+.html{
+    width:250px;
+    height:250px;
+} 
+.css{
+    width: 200px;
+    height:250px;
+    padding: 10px;
+    float:left;
+}
+.box1{
+    border: solid;
+    padding: auto;
+    
+}
+
+.box2{
+    width:30%;
+    margin: auto;
+}
+
+.box3{
+    width: 40%;
+    margin: auto;
+}
+
+.box3 img{
+    width: 100%;
+}
+
+.box4{
+    width:30%;
+    margin: auto;
+    border: 2px solid burlywood;
+}
+
+.box4 img{
+    width:100%
+    
+}
+
+.row2{
+    display: flex;
+    border: 2px solid burlywood;
+}
+
